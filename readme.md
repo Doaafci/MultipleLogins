@@ -17,14 +17,14 @@ Multiple Logins is a web application built with the php framework Laravel 5.The 
 
   6- Seed your database: php artisan db:seed
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+## TestCase
+ 
+ 1- Sign Up with One of roles (e.g. Orchestra)
+ 
+ 2- Check The Email Address that you signed up with for the confirmation link. the confirmation link will lead you to sign in to your            account.
+ 
+ 3-If you have an account with more than one role, you will select one of them to continue with your account.
+ 
+ 4- Logout to sign in with a different role.
+ 
+ 5- Use forget password password method with your Email address and check it for the Reset password link.
