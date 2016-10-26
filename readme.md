@@ -5,12 +5,17 @@ Multiple Logins is a web application built with the php framework Laravel 5.The 
 
 ## Installation
 
-1- Clone the repo: git clone https://github.com/Doaafci/MultipleLogins.git
-2- Install composer 
-3- Install Laravel: composer install --prefer-dist
-4- Change your database settings in .env
-5- Migrate your database: php artisan migrate
-6- Seed your database: php artisan db:seed
+  1- Clone the repo: git clone https://github.com/Doaafci/MultipleLogins.git
+
+  2- Install composer 
+
+  3- Install Laravel: composer install --prefer-dist
+
+  4- Change your database settings in .env
+
+  5- Migrate your database: php artisan migrate
+
+  6- Seed your database: php artisan db:seed
 
 ## Contributing
 
