@@ -1,6 +1,6 @@
-Multiple Logins
+## Multiple Logins
 
-This is build with  th PHP FrameWork Laravel 5.
+Multiple Logins is a web application built with the php framework Laravel 5.The User  in This  Application  is allowed to SignUp with different  roles (Orchestra Officer , Musician),SignIn by one of his roles at the time and also con Reset th account password.
 
 
 ## Official Documentation
