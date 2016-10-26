@@ -1,11 +1,16 @@
 ## Multiple Logins
 
-Multiple Logins is a web application built with the php framework Laravel 5.The User  in This  Application  is allowed to SignUp with different  roles (Orchestra Officer , Musician),SignIn by one of his roles at the time and also con Reset th account password.
+Multiple Logins is a web application built with the php framework Laravel 5.The User  in This  Application  is allowed to SignUp with different  roles (Orchestra Officer , Musician),SignIn by one of his roles at the time and also con Reset the account password.
 
 
-## Official Documentation
+## Installation
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+1- Clone the repo: git clone https://github.com/Doaafci/MultipleLogins.git
+2- Install composer 
+3- Install Laravel: composer install --prefer-dist
+4- Change your database settings in .env
+5- Migrate your database: php artisan migrate
+6- Seed your database: php artisan db:seed
 
 ## Contributing
 
